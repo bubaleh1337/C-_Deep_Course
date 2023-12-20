@@ -398,8 +398,8 @@ FodyWeavers.xsd
 
 # JetBrains Rider
 *.sln.iml
-
 *.jpg
-
 *.png 
 *.ini
+*.csproj
+*.sln
