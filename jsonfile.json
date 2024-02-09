@@ -1,0 +1,9 @@
+{
+  "name": "Ekaterina Pyshkova",
+  "age": 24,
+  "isMarried": false,
+  "address": {
+    "city": "Atyrau",
+    "country": "Kazakhstan"
+  }
+}
